@@ -1,0 +1,10 @@
+datetime-periods==1.1.1
+datetime-truncate==1.0.1
+Django==1.10.5
+python-dateutil==2.6.0
+six==1.10.0
+datetime-periods==1.1.1
+datetime-truncate==1.0.1
+Django==1.10.5
+python-dateutil==2.6.0
+six==1.10.0
